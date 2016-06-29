@@ -1,4 +1,4 @@
-#h1 psonix
+# psonix
 
 It's an app to see the ps process in realtime using [phoenix framework](phoenixframework.org)
 
